@@ -80,7 +80,7 @@ For Level A, you will need to write a **1-2 page discussion** about the policy y
 Your report must cover the following topics:
 
 1. **Perception/Reward Function Analysis**
-   - Examine the reward function setup to understand how the robot perceives its environment
+   - Examine the reward function setup to understand how the robot perceives its environment (see https://github.com/finnBsch/mujoco_playground/blob/lab1_rl/mujoco_playground/_src/locomotion/go1/joystick.py)
    - Explain what information the policy uses for decision-making (hint: look at observation space and reward structure)
    - Discuss how this perception influences obstacle climbing behavior, and what the robot must do to climb obstacles.
 
