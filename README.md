@@ -15,6 +15,16 @@ The levels are incremental, so e.g. reaching grade C is only possible if levels 
 - **Level A**: Discussion deliverable - reason about extensions and real-world deployment (see below)
 
 ## Getting Started
+We will provide instructions to use our GPU cluster in the lab.
+### Clone the repository
+
+First, clone the lab repository:
+
+```git clone https://github.com/finnBsch/eai2025_lab1_rl.git```
+
+Then navigate to the cloned directory:
+
+```cd eai2025_lab1_rl```
 
 ### Create a Python Virtual Environment
 
