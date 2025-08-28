@@ -16,12 +16,11 @@ The levels are incremental, so e.g. reaching grade C is only possible if levels 
 
 ## Getting Started
 
-### Create a Python Virtual Environment (Skip if using Google Colab)
+### Create a Python Virtual Environment
 
 Creating a Python venv (or conda/mamba env) is good practice to avoid installation/dependency conflicts when working on different projects. Given that labs 1, 2 and 3 will have different dependencies we strongly recommend you doing this.
 
 To create a venv, in a terminal (in the directory where this lab is) run:
-(In google colab you can open the terminal via a bottom at the bottom left)
 
 ```python3 -m venv <your_venv_name>```
 
